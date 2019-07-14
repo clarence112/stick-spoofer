@@ -1,2 +1,2 @@
-# stick-spoofer
+# stick spoofer
 make Mr Stick say anything!
